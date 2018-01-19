@@ -1,2 +1,2 @@
-# berita
-Isi mentah berita dalam bentuk markdown.
+# Berita
+Isi mentah berita dalam bentuk markdown. 
